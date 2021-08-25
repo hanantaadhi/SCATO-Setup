@@ -3,11 +3,12 @@ SCATO Setup is a project folder to adding release version from SCATO-DashboardDe
 
 to use this project folder:
 
-  1.place this folder beside the SCATO-DashboardDesigner
-  2.open the SCATO-DashboardDesigner/DashboardDesigner.csproj
-  3.spot the bottom of the TreeView Project, double click to import from DashboardDesigner release file and assembly
-  4.if you want to easy-install the application, go to /release and double click setup.exe
-
+    1. Place this folder beside the SCATO-DashboardDesigner
+    2. Open the SCATO-DashboardDesigner/DashboardDesigner.csproj
+    3. Spot the bottom of the TreeView Project, double click to import from DashboardDesigner release file and assembly
+    4. If you want to easy-install the application, go to /release and double click setup.exe
+    5. Make sure there is .NET Framework are installed (min. v4.6.1 DevPack)
+    
 credits:
 
     Mr. Basuki (My Supporting Lecturer)
